@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_atalanta">#1e71b8</color>
+    <color name="gatau">#00008B</color>
+    <color name="position_goalkeeper">#FFEB3B</color>
+    <color name="position_defender">#2196F3</color>
+    <color name="position_midfielder">#4CAF50</color>
+    <color name="position_forward">#F44336</color>
+    <color name="position_default">#FFFFFF</color>
+</resources>

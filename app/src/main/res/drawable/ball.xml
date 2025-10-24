@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Latar belakang bola -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,10
+            A90,90 0 1,1 99.9,10 z" />
+
+    <!-- Pola hitam bola -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M100,30
+            l20,35 -20,35 -20,-35 z" />
+
+    <path
+        android:fillColor="#000000"
+        android:pathData="M60,80
+            l-25,15 5,30 30,5 15,-25 z" />
+
+    <path
+        android:fillColor="#000000"
+        android:pathData="M140,80
+            l25,15 -5,30 -30,5 -15,-25 z" />
+
+    <path
+        android:fillColor="#000000"
+        android:pathData="M85,145
+            l15,25 15,-25 -15,-10 z" />
+
+    <!-- Garis tepi bola -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="3"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M100,10
+            A90,90 0 1,1 99.9,10 z" />
+
+</vector>

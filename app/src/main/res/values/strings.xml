@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D021100</string>
+    <string name="club_name">Atalanta BC</string>
+    <string name="club_history">Atalanta BC History</string>
+    <string name="atalanta_description">Atalanta didirikan pada tahun 1907 oleh beberapa pelajar asal Swiss di gym liceo classico. Atalanta bermain dengan mengenakan seragam biru-hitam vertikal, celana pendek hitam dan kaus kaki hitam. Stadion klub ini adalah Atleti Azzurri d\'Italia, sebuah stadion berkapasitas 21.300 tempat duduk.</string>
+    <string name="club_history_label_navigation">Club History</string>
+    <string name="head_coach_label_navigation">Head Coach</string>
+    <string name="team_squad_label_navigation">Team Squad</string>
+    <string name="club_history_detail">
+    Atalanta BC, atau secara resmi Atalanta Bergamasca Calcio, adalah klub sepak bola profesional asal Bergamo, Lombardy, Italia, yang saat ini berkompetisi di kasta tertinggi Liga Italia, Serie A. Klub ini sering dijuluki “La Dea” (Sang Dewi) dan juga dikenal sebagai “Gli Orobici” serta “I Nerazzurri” (“Si Hitam-Biru”).\n\n
+    Klub ini didirikan pada 17 Oktober 1907 oleh siswa-siswa dari Liceo Classico Paolo Sarpi di Bergamo, yang mengusulkan nama “Atalanta” dari tokoh mitologi Yunani yang terkenal akan kecepatan dan kegigihannya. Setelah penggabungan pada tahun 1920 dengan sebuah klub lokal lainnya, klub memakai nama saat ini dan mulai mengenakan seragam bergaris biru-hitam yang kemudian menjadi identitas visualnya. Meskipun tidak berasal dari kota ibukota wilayah (regional capital), Atalanta telah konsisten tampil di Serie A — sehingga sering disebut “Regina delle provinciali” atau “Ratu klub provinsi”.\n\n
+    Sepanjang sejarahnya, Atalanta telah melalui periode naik-turun antara Serie A dan Serie B, namun sejak promosi kembali pada tahun 2011, mereka berhasil bertahan lama di Serie A. Banyak pengamat mencatat bagaimana klub ini berkembang dari status “underdog” menjadi kekuatan yang diperhitungkan. Di kompetisi Eropa, Atalanta mulai membuat jejak signifikan: misalnya, di musim 2019-20 mereka mencapai perempat final UEFA Champions League 2019–20 yang merupakan pencapaian tertinggi mereka di kompetisi tersebut hingga saat itu.\n\n
+    Markas Atalanta adalah Gewiss Stadium (dulunya dikenal sebagai Stadio Atleti Azzurri d’Italia) di Bergamo yang merupakan sebuah stadion yang menjadi simbol bagi klub dan komunitas lokal. Klub ini dikenal juga karena punya akademi muda yang produktif, memunculkan pemain-pemain berkualitas dan menjadi bagian dari identitas mereka sebagai klub “provinsi” yang berkembang melalui pengembangan internal serta manajemen yang relatif stabil dibanding banyak klub besar.\n\n
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
